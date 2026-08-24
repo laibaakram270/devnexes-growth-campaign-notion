@@ -33,6 +33,3 @@ The goal was to acquire 15 new paying customers with a $500 budget and achieve 4
 1. Review each .md file for strategy
 2. Open the Excel model to see CAC/LTV calculations
 
-
-## Demo Video
-[Add your 2-min Loom/Screen Recording Link Here] 
