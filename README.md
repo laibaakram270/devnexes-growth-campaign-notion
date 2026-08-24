@@ -1,4 +1,4 @@
-#30-Day Growth Marketing Campaign
+# 30-Day Growth Marketing Campaign
 ### Notion for Teams
 
 **Tools:** Notion, LinkedIn Ads, Google Ads, Mailchimp, GA4, Excel
