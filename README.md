@@ -23,7 +23,12 @@ The goal was to acquire 15 new paying customers with a $500 budget and achieve 4
 - **ROI**: 4.4x
 - **Payback Period**: 2.2 months
 
+**Installation:** None required. Open .md files in any editor.
 
+**Dependencies:** Google Sheets/Excel for .xlsx file
+
+**Key Features:** Full 30-day campaign, CAC/LTV Model, ROI: 4.4x  
+  
 ## How to Use
 1. Review each .md file for strategy
 2. Open the Excel model to see CAC/LTV calculations
